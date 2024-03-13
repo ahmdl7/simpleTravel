@@ -1,0 +1,13 @@
+.header{
+    margin-top: 80px;
+}
+
+@media (min-width: 768px) {
+.imgheader{
+    width: 50%;
+}
+}
+
+#services img{
+    height: 150px;
+}
